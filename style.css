@@ -34,8 +34,8 @@ body
     flex-wrap:wrap;
     position: sticky;
         flex-wrap: wrap;
-    /* top:0; */
-    position: sticky;
+    z-index: 1000;
+    top:0;
 }
 
 .nav img 
